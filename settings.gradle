@@ -44,4 +44,5 @@ include 'StrategyExample'
 include 'BetterProfiles'
 include 'CluePuzzleSolver'
 include 'LeftClickBlackJack'
+include 'AutoTemplate'
 
